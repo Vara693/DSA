@@ -1,0 +1,3 @@
+Food,65,11-11-2025,Chappati bhaji
+Assignments,50,11-11-2025,For printing assignments
+Medical,200,11-11-2025,gydusegu
